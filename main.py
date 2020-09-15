@@ -1,10 +1,12 @@
-noun = "boy"
-verb = "walked"
+noun = "alien"
+verb = "jogged"
 adjective = "cheerfully"
 place = "school"
-print(f"The {noun} {verb} {adjective} to {place}")
-noun = "dog"
+time = "10 minutes"
+print(f"The {noun} {verb} {adjective} to {place} in {time}")
+noun = "mutant dog"
 verb = "ran"
 adjective = "hastily"
-place = "his owner"
-print(f"The {noun} {verb} {adjective} to {place}")
+place = "his master"
+area = "the field"
+print(f"The {noun} {verb} {adjective} to {place} on {area}")
