@@ -1,8 +1,10 @@
-noun = "car"
-adverb = "gently"
-adjective = "loud"
-print(f"The {noun} was {adjective} when it {adverb} went to school")
-noun = "zebra"
-adverb = "aggresively"
-adjective = "giant"
-print(f"The {noun} was {adjective} when it {adverb} went to school")
+noun = "boy"
+verb = "walked"
+adjective = "cheerfully"
+place = "school"
+print(f"The {noun} {verb} {adjective} to {place}")
+noun = "dog"
+verb = "ran"
+adjective = "hastily"
+place = "his owner"
+print(f"The {noun} {verb} {adjective} to {place}")
